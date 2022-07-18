@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size:25 px
+}
+.hero-image{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("img/salones-para-eventos.png");
+    height: 500px;
+    margin-top:px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    display:grid;
+    justify-content:center;
+    align-content:center;
+}
+#titulo{
+    color:white;
+    font-size:180%;
+}
+.resto{
+    height: 671px;
+    background-color: greenyellow;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("img/fiesta-2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    display:grid;
+    justify-content:center;
+    align-content:center;
+}
+#titulo1{
+    font-size:300%;
+    color: antiquewhite;
+}
+#info{
+    color: aliceblue;
+    font-size: 150%;
+}
+#nombre{
+    color: antiquewhite;
+    display: grid;
+    justify-content: center;
+    font-size: 150%;
+
+}
+#fecha{
+    color: antiquewhite;
+    display: grid;
+    justify-content: center;
+    font-size: 150%;
+}
+#form1{
+    display: grid;
+    justify-content: center;
+}
+#bt1{
+    margin-top: 10px;
+}
+.tabla{
+    margin-top: 20px;
+    margin-left: 25px;
+    color:antiquewhite;
+    font-size: 150%;
+    
+}
+td{
+    padding: 25px;
+    border-bottom: 5px;
+}

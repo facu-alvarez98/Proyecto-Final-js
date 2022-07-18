@@ -1,0 +1,17 @@
+[
+    {"emp":"Pepita eventos",
+    "libre":["1/5","2/5"],
+    "ventajas":"dia de campo y barra libre"},
+  
+    {
+    "emp":"lo de tus amigos",
+    "libre":["2/5","3/5","4/5"],
+    "ventajas":"dj y catering"
+    },
+  
+    {
+    "emp":"la picadita",
+    "libre":["1/5","3/5","4/5"],
+    "ventajas":"el mejor asado y la mejor atencion"
+    }
+]
