@@ -21,6 +21,7 @@ document.addEventListener('DOMContentLoaded', function(){  //lo utilizamos para 
           text: 'Olvidaste rellenar todo!',
         })
         //caso contrario de que no este vacia
+        //ahhhhhhhhhhhhhhhhhh
       }else{
         //entramos en fetch para poder buscar que la fecha del formulario este la API
         //utilizamos una ruta alternativa para simular una API      
